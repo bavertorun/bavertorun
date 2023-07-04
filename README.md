@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time I watch science fiction movies</p>
+- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React.js<br>- ⚡ In my free time I watch science fiction movies</p>
 
 ###
 
