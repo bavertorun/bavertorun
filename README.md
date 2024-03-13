@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**bavertorun/bavertorun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Blockchain & Web3 Development
+- 👯 I’m looking to collaborate on exciting Blockchain and Web3 development projects!
+- 🤔  I’m looking for help with advancing my skills in Javascript and staying updated on the latest developments in Blockchain technology.
+- 💬 Ask me about my experiences in Javascript development or any questions related to Blockchain and Web3!
+- 📫 How to reach me: <a href='mailto:bawertorun@gmail.com'>bawertorun@gmail.com</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a small decentralized application (DApp) as a side project while exploring the world of Blockchain!
+<hr>
+<p align="center">
+  <a href="https://github.com/bavertorun">
+    <img src="https://skillicons.dev/icons?i=git,js,py,react,html,css,bootstrap" />
+  </a>
+</p>
