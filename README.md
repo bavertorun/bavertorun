@@ -17,4 +17,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 <hr>
-![](https://komarev.com/ghpvc/?username=bavertorun)
+<img align='center' src='https://komarev.com/ghpvc/?username=bavertorun'/>
