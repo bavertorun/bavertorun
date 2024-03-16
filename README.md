@@ -16,3 +16,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,js,py,react,html,css,bootstrap" />
   </a>
 </p>
+<hr>
+![](https://komarev.com/ghpvc/?username=bavertorun)
