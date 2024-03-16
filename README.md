@@ -17,4 +17,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 <hr>
-<img align='center' src='https://komarev.com/ghpvc/?username=bavertorun'/>
+<div align='center'>
+<img src='https://komarev.com/ghpvc/?username=bavertorun'/>
+</div>
