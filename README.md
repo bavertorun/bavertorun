@@ -34,7 +34,6 @@ Here are some ideas to get you started:
        </p>
      <br>
   </div> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bavertorun.bavertorun" />
 </details>
 <hr>
 <div align='center'>
