@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS & NodeJS
 - 👯 I’m looking to collaborate on exciting Blockchain and Web3 development projects!
 - 🤔  I’m looking for help with advancing my skills in Javascript and staying updated on the latest developments in Blockchain technology.
 - 💬 Ask me about my experiences in Javascript development or any questions related to Blockchain and Web3!
