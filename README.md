@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <a href="https://github.com/bavertorun">
-    <img src="https://skillicons.dev/icons?i=git,js,php,py,react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,js,php,py,react,html,css,bootstrap,express,nodejs" />
   </a>
 </p>
 <details>
