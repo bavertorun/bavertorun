@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <details>
   <summary>More...</summary>
     <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=bavertorun&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bavertorun&show_icons=true&count_private=true&theme=dark" /><br>
 <img src='https://komarev.com/ghpvc/?username=bavertorun'/>
 </div>
 </details>
