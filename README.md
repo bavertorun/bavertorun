@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 </p>
 <details>
   <summary>More...</summary>
+    <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=bavertorun&show_icons=true&count_private=true&theme=dark" />
-  <div align='center'>
 <img src='https://komarev.com/ghpvc/?username=bavertorun'/>
 </div>
-
 </details>
