@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <a href="https://github.com/bavertorun">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,js,php,py,react,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git" /><br>
+    <img src="https://skillicons.dev/icons?i=js,php,py,react,express,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 <details>
