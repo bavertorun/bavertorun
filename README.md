@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Baver** - I'm a Software Developer, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+**I'm Baver** - I'm a Software Developer, and high school student. I'm interested in Web3 development. I work on random projects in my free time.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,mongodb,docker)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/bavertorun/skill-icons)
