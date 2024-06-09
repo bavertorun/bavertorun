@@ -1,7 +1,7 @@
 # Hey There! 👋
 <!--**I'm Baver** - I'm a Software Developer, and high school student. I'm interested in Web3 development. I work on random projects in my free time.-->
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,php,solidity,mongodb,mysql)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,php,laravel,mongodb,mysql)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
