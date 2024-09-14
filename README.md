@@ -3,4 +3,4 @@ Hello, I'm Baver, I'm 18 years old. I'm a junior developer who develops projects
 </br>
 <hr>
 
-[![SkillIcons](https://skillicons.dev/icons?i=solidity,js,ts,react,nodejs,py,php,laravel,nestjs,express,mongodb,mysql,dynamodb)](https://github.com/bavertorun/bavertorun)
+[![SkillIcons](https://skillicons.dev/icons?i=flutter,js,ts,react,nodejs,py,php,laravel,nestjs,express,mongodb,mysql,dynamodb)](https://github.com/bavertorun/bavertorun)
